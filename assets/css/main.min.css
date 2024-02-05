@@ -3788,7 +3788,7 @@ figcaption {
 }
 .menu_link.w--current {
   color: #383838;
-  letter-spacing: -0.2vw;
+  letter-spacing: 0vw;
 }
 .menu_link.w--current:hover,
 .menu_link.w--current:visited {
@@ -4884,7 +4884,7 @@ figcaption {
   }
   .menu_link {
     color: #383838;
-    letter-spacing: -3px;
+    letter-spacing: 0px;
     font-size: 5vw;
     font-weight: 700;
   }
